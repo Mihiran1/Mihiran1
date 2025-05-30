@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
+<h1 align="center">Hi 👋, I'm Mihiran Samarasinghe</h1>
 <h3 align="center">Software Developer | UI/UX Designer | Undergraduate at ITUM</h3>
 
 <p align="center">
@@ -64,26 +64,25 @@ Tech: HTML, CSS, JavaScript, GSAP
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mihiransamarasinghe&show_icons=true&theme=radical" alt="mihiransamarasinghe" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiransamarasinghe&layout=compact&theme=radical" alt="langs" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
-- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [mihiransamarasinghe5@gmail.com](mailto:mihiransamarasinghe5@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/mihiransamarasinghe](https://linkedin.com/in/mihiransamarasinghe) *(Update this if different)*  
+- 🌐 Portfolio: [https://mihiransamarasinghe.github.io](https://mihiransamarasinghe.github.io) *(If available, or use another site)*
 
 ---
 
 ### 🚀 Let's Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
-<a href="https://figma.com/@yourfigma" target="blank"><img align="center" src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" alt="figma" /></a>
-<a href="mailto:youremail@example.com"><img align="center" src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail" alt="gmail" /></a>
+<a href="https://linkedin.com/in/mihiransamarasinghe" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+<a href="mailto:mihiransamarasinghe5@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail" alt="gmail" /></a>
 </p>
