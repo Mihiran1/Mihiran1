@@ -25,8 +25,8 @@
 
 ### 🚀 Projects
 
-- **Product Tracking System** – Full-stack app for garment production  
-  _React, Node.js, Express, MongoDB_  
+- **Conference day management system **  
+  _HTML, CSS, JavaScript_  
   🔗 [Repository](#) | 🔴 [Live Demo](#)
 
 - **Travel App UI** – Figma prototype for a travel planning interface  
@@ -37,14 +37,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihiransamarasinghe&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiransamarasinghe&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
