@@ -2,8 +2,6 @@
   
 # Hi there! 👋 I'm Mihiran Samarasinghe
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-
 ### 🚀 Software Developer | 🎨 UI/UX Designer | 🎓 Undergraduate at ITUM
 
 <p align="center">
@@ -67,22 +65,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```javascript
-const mihiran = {
-    currentlyLearning: ["TypeScript", "Next.js", "AWS"],
-    workingOn: ["Conference Management System", "Portfolio Website"],
-    goals: ["Master Full-Stack Development", "Create Impactful Projects"],
-    askMeAbout: ["React", "Node.js", "UI/UX Design", "Web Development"]
-};
-```
-
-</div>
-
----
 
 ## 🏆 GitHub Trophies
 
