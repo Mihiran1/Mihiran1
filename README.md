@@ -68,20 +68,26 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=mihiran-samarasinghe&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiran-samarasinghe&layout=compact&theme=radical&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=mihiran1&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihiran1&layout=compact&theme=radical&hide_border=true" height="165">
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihiran-samarasinghe&theme=radical&hide_border=true" width="600">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mihiran1&theme=radical&hide_border=true" width="600">
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihiran-samarasinghe&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafe&area=true&hide_border=true" width="900">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mihiran1&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafe&area=true&hide_border=true" width="900">
+
+</div></div>
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=mihiran1&theme=radical&no-frame=true&row=1&column=6" width="900">
 
 </div>
 
@@ -208,6 +214,6 @@ const mihiran = {
 ### Thanks for visiting! 😊 
 ### Let's build something amazing together! 🚀
 
-<img src="https://komarev.com/ghpvc/?username=mihiran-samarasinghe&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=mihiran1&style=for-the-badge&color=blue" />
 
 </div>
